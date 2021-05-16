@@ -1,3 +1,3 @@
-Bryant University Math 490 Capstone Project
+# Bryant University Math 490 Capstone Project
 
-Kaitlyn Fales, Class of 2021
+### Kaitlyn Fales, Class of 2021
